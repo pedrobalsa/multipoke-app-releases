@@ -6,7 +6,7 @@ Distribuição oficial do cliente MultiPoke App para Windows 64 bits.
 
 A página de download apresenta o instalador atual, instruções de instalação e login, informações sobre o aviso do Windows e a verificação opcional por SHA-256. O botão baixa o instalador diretamente.
 
-O cliente reúne até seis treinadores da sua conta do [MultiPoke Idle](https://multipoke.io), com grupos, Poképedia, indicadores e divisões de painéis.
+O cliente reúne até quatro treinadores da sua conta do [MultiPoke Idle](https://multipoke.io), com grupos, Poképedia, indicadores e divisões de painéis.
 
 A partir da v0.1.16, o aplicativo instalado avisa quando há atualização. Você escolhe baixar e depois reiniciar para instalar. Quem está na v0.1.15 ou anterior precisa instalar a primeira versão com esse recurso manualmente.
 
